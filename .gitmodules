@@ -4,7 +4,7 @@
 	branch = master
 [submodule "openpmix"]
 	path = 3rd-party/openpmix
-	url = ../../openpmix/openpmix.git
+	url = https://github.com/Matthew-Whitlock/openpmix
 	branch = master
 [submodule "oac"]
 	path = config/oac
